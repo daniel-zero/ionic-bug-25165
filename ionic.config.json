@@ -1,0 +1,7 @@
+{
+  "name": "TestPopover",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
